@@ -1,4 +1,4 @@
-#+TITLE: Readme
+#+TITLE: all the splash images
 
 This is a selection of images and banners that are used as splash images in the
 emacs and doom community this is a place to aggregate and share them
