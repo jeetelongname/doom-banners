@@ -2,3 +2,9 @@
 
 This is a selection of images and banners that are used as splash images in the
 emacs and doom community this is a place to aggregate and share them
+
+*  Credits
+
++ thanks to [[https://github.com/d12frosted/homebrew-emacs-plus/][emacs-plus]] for quite a few of the emacs icons
++ thanks to [[https://github.com/eccentric-j/doom-icon/blob/master/doom-emacs-0.2.ai][@eccentric-j]] for the cute doom demon
++ thanks to [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][@valrus]] for the wonderful Steven Universe lion head!
