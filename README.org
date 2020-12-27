@@ -3,24 +3,31 @@
 This is a selection of images and banners that are used as splash images in the
 emacs and doom community this is a place to aggregate and share them
 
+* Using the Icons
+you can set the icons by adding this line to your ~config.el~ in [[https://github.com/hlissner/doom-emacs][doom emacs]]
+
+#+begin_src emacs-lisp
+(setq fancy-splash-image "/path/to/image")
+#+end_src
+
 * Contributing
 Feel free to make pull requests to add your splashes! just keep in mind..
 + that if these images are not made by you then you need to add the name of the
   artist and the licence that it is using for distribution. it preferably needs
-  to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]]  but as long as its permissive it should be fine
+  to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]]  but as long as its permissive it should be fin  e
 + That these images are a cetain size around the size of =350x300= pixels. Larger
   images can dominate the dashboard and make it unusable
 * Credits
 
 + thanks to [[https://github.com/d12frosted/homebrew-emacs-plus/][emacs-plus]] for quite a few of the emacs icons
 
-| Author                        | Image                      | URL    |
-|-------------------------------+----------------------------+--------|
-| [[https://github.com/aurium][→ Aurélio A. Heckert]]          | [[./gnu/gnu-head.png]]         | [[https://www.gnu.org/graphics/heckert_gnu.html][→ Link]] |
-| [[https://github.com/jasonm23][→ Jason Milkins]]               | [[./emacs/emacs-modern.png]]   | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]] |
-| Unknown                       | [[./emacs/emacs-sink.png]]     | [[https://www.teuton.org/~ejm/emacsicon/][→ Link]] |
-| → Luis Fernandes              | [[./emacs/emacs-gnu-logo.png]] | [[https://www.ee.ryerson.ca/~elf/emacs/logo/index.html][→ Link]] |
-| → Nicolas Petton              | [[./emacs/emacs-e-logo.png]]   | [[https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons][→ Link]] |
-| [[http://fsf.org][Free Software Foundation, Inc]] | [[./gnu/trancendent-gnu.png]]  | [[https://www.gnu.org/graphics/meditate.html][→ Link]] |
-| [[github:eccentric-j][→ Eccentric-j]]                 | [[./doom/cute-demon.png]]      | [[https://github.com/eccentric-j/doom-icon/blob/master/doom-emacs-0.2.ai][→ Link]] |
-| [[github:valrus][Valrus]]                        | [[./others/lion-head.png]]     | [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][→ Link]] |
+| Author                                              | Image                          | URL                                                                                               |
+|-----------------------------------------------------+--------------------------------+---------------------------------------------------------------------------------------------------|
+| [[https://github.com/aurium][→ Aurélio A. Heckert]] | [[./gnu/gnu-head.png]]         | [[https://www.gnu.org/graphics/heckert_gnu.html][→ Link]]                                         |
+| [[https://github.com/jasonm23][→ Jason Milkins]]    | [[./emacs/emacs-modern.png]]   | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]]                                    |
+| Unknown                                             | [[./emacs/emacs-sink.png]]     | [[https://www.teuton.org/~ejm/emacsicon/][→ Link]]                                                |
+| → Luis Fernandes                                    | [[./emacs/emacs-gnu-logo.png]] | [[https://www.ee.ryerson.ca/~elf/emacs/logo/index.html][→ Link]]                                  |
+| → Nicolas Petton                                    | [[./emacs/emacs-e-logo.png]]   | [[https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons][→ Link]]                     |
+| [[http://fsf.org][Free Software Foundation, Inc]]   | [[./gnu/trancendent-gnu.png]]  | [[https://www.gnu.org/graphics/meditate.html][→ Link]]                                            |
+| [[https://github.com/eccentric-j][→ Eccentric-j]]   | [[./doom/cute-demon.png]]      | [[https://github.com/eccentric-j/doom-icon/blob/master/doom-emacs-0.2.ai][→ Link]]                |
+| [[https://github.com/valrus][Valrus]]               | [[./others/lion-head.png]]     | [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][→ Link]] |
