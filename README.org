@@ -21,13 +21,18 @@ Feel free to make pull requests to add your splashes! just keep in mind..
 
 + thanks to [[https://github.com/d12frosted/homebrew-emacs-plus/][emacs-plus]] for quite a few of the emacs icons
 
-| Author                                              | Image                          | URL                                                                                               |
-|-----------------------------------------------------+--------------------------------+---------------------------------------------------------------------------------------------------|
-| [[https://github.com/aurium][→ Aurélio A. Heckert]] | [[./gnu/gnu-head.png]]         | [[https://www.gnu.org/graphics/heckert_gnu.html][→ Link]]                                         |
-| [[https://github.com/jasonm23][→ Jason Milkins]]    | [[./emacs/emacs-modern.png]]   | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]]                                    |
-| Unknown                                             | [[./emacs/emacs-sink.png]]     | [[https://www.teuton.org/~ejm/emacsicon/][→ Link]]                                                |
-| → Luis Fernandes                                    | [[./emacs/emacs-gnu-logo.png]] | [[https://www.ee.ryerson.ca/~elf/emacs/logo/index.html][→ Link]]                                  |
-| → Nicolas Petton                                    | [[./emacs/emacs-e-logo.png]]   | [[https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons][→ Link]]                     |
-| [[http://fsf.org][Free Software Foundation, Inc]]   | [[./gnu/trancendent-gnu.png]]  | [[https://www.gnu.org/graphics/meditate.html][→ Link]]                                            |
-| [[https://github.com/eccentric-j][→ Eccentric-j]]   | [[./doom/cute-demon.png]]      | [[https://github.com/eccentric-j/doom-icon/blob/master/doom-emacs-0.2.ai][→ Link]]                |
-| [[https://github.com/valrus][Valrus]]               | [[./others/lion-head.png]]     | [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][→ Link]] |
+| Author                        | Image                          | URL    |
+|-------------------------------+--------------------------------+--------|
+| [[https://github.com/aurium][→ Aurélio A. Heckert]]          | [[./gnu/gnu-head.png]]             | [[https://www.gnu.org/graphics/heckert_gnu.html][→ Link]] |
+| [[https://github.com/jasonm23][→ Jason Milkins]]               | [[./emacs/emacs-modern.png]]       | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]] |
+| Unknown                       | [[./emacs/emacs-sink.png]]         | [[https://www.teuton.org/~ejm/emacsicon/][→ Link]] |
+| → Luis Fernandes              | [[./emacs/emacs-gnu-logo.png]]     | [[https://www.ee.ryerson.ca/~elf/emacs/logo/index.html][→ Link]] |
+| → Nicolas Petton              | [[./emacs/emacs-e-logo.png]]       | [[https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons][→ Link]] |
+| [[http://fsf.org][Free Software Foundation, Inc]] | [[./gnu/trancendent-gnu.png]]      | [[https://www.gnu.org/graphics/meditate.html][→ Link]] |
+| [[https://github.com/eccentric-j][→ Eccentric-j]]                 | [[./doom/cute-demon.png]]          | [[https://github.com/eccentric-j/doom-icon/blob/master/doom-emacs-0.2.ai][→ Link]] |
+| [[https://github.com/valrus][Valrus]]                        | [[./others/lion-head.png]]         | [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][→ Link]] |
+| [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-color.png]]    | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
+| [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-color2.png]]   | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
+| [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-color2.svg]]   | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
+| [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-bw-light.svg]] | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
+| [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-bw-dark.svg]]  | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
