@@ -12,11 +12,20 @@ you can set the icons by adding this line to your ~config.el~ in [[https://githu
 
 * Contributing
 Feel free to make pull requests to add your splashes! just keep in mind..
+
 + that if these images are not made by you then you need to add the name of the
   artist and the licence that it is using for distribution. it preferably needs
-  to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]]  but as long as its permissive it should be fin  e
-+ That these images are a cetain size around the size of =350x300= pixels. Larger
-  images can dominate the dashboard and make it unusable
+  to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]]  but as long as its permissive it should be fine.
+  *If it does not meet this step I can't merge it*
+
++ Large images can dominate and hurt the usability of the dashboard. I recommend
+  =400x400= for 1080p screens but I am a sample size of one. It maybe beneficial
+  to you to resize the image to a different size
+  if you have image magic installed this command will resize the image to 400x400
+ #+begin_src shell
+ convert INPUT.png -resize 400 -quality 75 OUTPUT.png
+ #+end_src 
+
 * Credits
 
 + thanks to [[https://github.com/d12frosted/homebrew-emacs-plus/][emacs-plus]] for quite a few of the emacs icons
