@@ -45,4 +45,4 @@ Feel free to make pull requests to add your splashes! just keep in mind..
 | [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-color2.svg]]   | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
 | [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-bw-light.svg]] | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
 | [[https://github.com/zzamboni][zzamboni]]                      | [[./doom/doom-emacs-bw-dark.svg]]  | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
-| [[https://www.youtube.com/channel/UCikm0c5t-5FUQHCct0ZXzOg/about][I'm a lightbulb]]               | [[./doom/I-am-doom.png]]           |        |
+| [[https://imalightbulb.xyz/][I'm a lightbulb]]               | [[./doom/I-am-doom.png]]           |        |
