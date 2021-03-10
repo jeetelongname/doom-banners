@@ -64,6 +64,7 @@ Feel free to make pull requests to add your images! just keep in mind..
 
 ** Icons
 *** emacs
-| Author          | Image                          | URL    |
-|-----------------+--------------------------------+--------|
-| [[https://github.com/jasonm23][→ Jason Milkins]] | [[./icons/emacs/emacs-modern.png]] | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]] |
+| Author          | Image                                      | URL    |
+|-----------------+--------------------------------------------+--------|
+| [[https://github.com/jasonm23][→ Jason Milkins]] | [[./icons/emacs/emacs-modern.png]]             | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]] |
+| [[https://darrinhenein.com/][→ Darrin Henein]] | [[./icons/emacs/emacs-curvy/emacs-curvy.icns]] | [[https://darrinhenein.com/2021/Emacs-Icon][→ Link]] |
