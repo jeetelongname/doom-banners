@@ -42,6 +42,7 @@ Feel free to make pull requests to add your images! just keep in mind..
 | [[https://github.com/zzamboni][zzamboni]]        | [[./splashes/doom/doom-emacs-bw-dark.svg]]  | [[https://gitlab.com/zzamboni/dot-doom/-/tree/master/splash][→ Link]] |
 | [[https://imalightbulb.xyz/][I'm a lightbulb]] | [[./splashes/doom/I-am-doom.png]]           |        |
 | anonymous       | [[./splashes/doom/doomguy.png]]             |        |
+| [[https://github.com/eccentric-j][eccentric-j]]     | [[./splashes/doom/cute-demon.png]]          | [[https://github.com/eccentric-j/doom-icon][→ Link]] |
 
 *** emacs
 | Author           | Image                               | URL    |
