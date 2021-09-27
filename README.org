@@ -1,7 +1,7 @@
 #+TITLE: All the splash images
 
 This is a selection of images and banners that are used as splash images and
-icoms in the emacs and doom community this is a place to aggregate and share them
+icons in the emacs and doom community this is a place to aggregate and share them
 
 * Using the Icons
 You can download individual images or clone the repo
@@ -15,7 +15,7 @@ you can set the icons by adding this line to your ~config.el~ in [[https://githu
 Feel free to make pull requests to add your images! just keep in mind..
 
 + that if these images are not made by you then you need to add the name of the
-  artist and the licence that it is using for distribution. it preferably needs
+  artist and the license that it is using for distribution. it preferably needs
   to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]]  but as long as its permissive it should be fine.
   *If it does not meet this step I can't merge it*
 
@@ -45,6 +45,7 @@ Feel free to make pull requests to add your images! just keep in mind..
 | [[https://github.com/eccentric-j][eccentric-j]]     | [[./splashes/doom/cute-demon.png]]                 | [[https://github.com/eccentric-j/doom-icon][→ Link]] |
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-color.png]] |        |
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-bw.png]]    |        |
+| [[https://github.com/abrahamparayil][abrahamparayil]]  | [[./splashes/doom/M-x_butterfly.png][./splashes/doom/M-x_butterfly.png]]              |        |
 
 *** emacs
 | Author           | Image                               | URL    |
