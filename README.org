@@ -45,7 +45,6 @@ Feel free to make pull requests to add your images! just keep in mind..
 | [[https://github.com/eccentric-j][eccentric-j]]     | [[./splashes/doom/cute-demon.png]]                 | [[https://github.com/eccentric-j/doom-icon][→ Link]] |
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-color.png]] |        |
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-bw.png]]    |        |
-| [[https://github.com/abrahamparayil][abrahamparayil]]  | [[./splashes/doom/M-x_butterfly.png][./splashes/doom/M-x_butterfly.png]]              |        |
 
 *** emacs
 | Author           | Image                               | URL    |
@@ -53,6 +52,7 @@ Feel free to make pull requests to add your images! just keep in mind..
 | Unknown          | [[./splashes/emacs/emacs-sink.png]]     | [[https://www.teuton.org/~ejm/emacsicon/][→ Link]] |
 | → Luis Fernandes | [[./splashes/emacs/emacs-gnu-logo.png]] | [[https://www.ee.ryerson.ca/~elf/emacs/logo/index.html][→ Link]] |
 | → Nicolas Petton | [[./splashes/emacs/emacs-e-logo.png]]   | [[https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons][→ Link]] |
+| [[https://github.com/abrahamparayil][abrahamparayil]]   | [[./splashes/emacs/M-x_butterfly.png][./splashes/emacs/M-x_butterfly.png]]  |        |
 
 *** gnu
 
