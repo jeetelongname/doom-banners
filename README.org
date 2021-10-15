@@ -60,6 +60,7 @@ Feel free to make pull requests to add your images! just keep in mind..
 |-------------------------------+------------------------------------+--------|
 | [[https://github.com/aurium][→ Aurélio A. Heckert]]          | [[./splashes/gnu/gnu-head.png]]        | [[https://www.gnu.org/graphics/heckert_gnu.html][→ Link]] |
 | [[http://fsf.org][Free Software Foundation, Inc]] | [[./splashes/gnu/trancendent-gnu.png]] | [[https://www.gnu.org/graphics/meditate.html][→ Link]] |
+| [[https://en.wikipedia.org/wiki/David_Vignoni][David Vignoni]]                 | [[./splashes/gnu/nuvola_emacs.png]]    | [[https://commons.wikimedia.org/wiki/File:Nuvola_apps_emacs_vector.svg][→ Link]] |
 
 *** others
 
