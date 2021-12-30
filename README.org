@@ -1,35 +1,35 @@
 #+TITLE: All the splash images
 
 This is a selection of images and banners that are used as splash images and
-icons in the emacs and doom community this is a place to aggregate and share them
+icons in the emacs and doom community. This is a place to aggregate and share them.
 
 * Using the Icons
-You can download individual images or clone the repo
-you can set the icons by adding this line to your ~config.el~ in [[https://github.com/hlissner/doom-emacs][doom emacs]]
+You can download individual images or clone the repo.
+You can set the icons by adding this line to your ~config.el~ in [[https://github.com/hlissner/doom-emacs][doom emacs]]
 
 #+begin_src emacs-lisp
 (setq fancy-splash-image "/path/to/image")
 #+end_src
 
 * Contributing
-Feel free to make pull requests to add your images! just keep in mind..
+Feel free to make pull requests to add your images! Just keep in mind...
 
-+ that if these images are not made by you then you need to add the name of the
-  artist and the license that it is using for distribution. it preferably needs
-  to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]]  but as long as its permissive it should be fine.
-  *If it does not meet this step I can't merge it*
++ That if these images are not made by you then you need to add the name of the
+  artist and the license that it is using for distribution. It preferably needs
+  to be a [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons]] but as long as its permissive it should be fine.
+  *If it does not meet this step I can't merge it*.
 
 + Large images can dominate and hurt the usability of the dashboard. I recommend
-  =400x400= for 1080p screens but I am a sample size of one. It maybe beneficial
-  to you to resize the image to a different size
-  if you have image magic installed this command will resize the image to 400x400
+  =400x400= for 1080p screens but I am a sample size of one. It may be beneficial
+  for you to resize the image.
+  If you have image magic installed this command will resize the image to 400x400:
  #+begin_src shell
  convert INPUT.png -resize 400 -quality 75 OUTPUT.pn g
  #+end_src 
 
 * Credits
 
-+ thanks to [[https://github.com/d12frosted/homebrew-emacs-plus/][emacs-plus]] for quite a few of these images
++ Thanks to [[https://github.com/d12frosted/homebrew-emacs-plus/][emacs-plus]] for quite a few of these images
 
 ** Splash images
 *** doom
@@ -64,9 +64,10 @@ Feel free to make pull requests to add your images! just keep in mind..
 
 *** others
 
-| Author | Image                           | URL    |
-|--------+---------------------------------+--------|
-| [[https://github.com/valrus][Valrus]] | [[./splashes/others/lion-head.png]] | [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][→ Link]] |
+| Author | Image                                | URL    |
+|--------+--------------------------------------+--------|
+| [[https://github.com/valrus][Valrus]] | [[./splashes/others/lion-head.png]]      | [[https://github.com/valrus/doom-private-module/blob/master/splash-images/lion-head.png][→ Link]] |
+| [[https://github.com/eutro][eutro]]  | [[./splashes/others/emacs-logo-vim.png][./splashes/others/emacs-logo-vim.png]] | [[https://github.com/mkrl/misbrands/pull/20#issuecomment-1001027050][→ Link]] |
 
 ** Icons
 *** emacs
