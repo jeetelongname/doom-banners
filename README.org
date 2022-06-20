@@ -45,6 +45,8 @@ Feel free to make pull requests to add your images! Just keep in mind...
 | [[https://github.com/eccentric-j][eccentric-j]]     | [[./splashes/doom/cute-demon.png]]                 | [[https://github.com/eccentric-j/doom-icon][→ Link]] |
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-color.png]] |        |
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-bw.png]]    |        |
+| [[https://github.com/ocodo][ocodo]]           | [[./splashes/doom/doom-creamsody.png]]             |        |
+| [[https://github.com/ocodo][ocodo]]           | [[./splashes/doom/doom-vapourwave.png]]            |        |
 
 *** emacs
 | Author           | Image                               | URL    |
@@ -73,5 +75,5 @@ Feel free to make pull requests to add your images! Just keep in mind...
 *** emacs
 | Author          | Image                                      | URL    |
 |-----------------+--------------------------------------------+--------|
-| [[https://github.com/jasonm23][→ Jason Milkins]] | [[./icons/emacs/emacs-modern.png]]             | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]] |
+| [[https://github.com/jasonm23][→ ocodo]]         | [[./icons/emacs/emacs-modern.png]]             | [[https://github.com/emacsfodder/emacs-icons-project][→ Link]] |
 | [[https://darrinhenein.com/][→ Darrin Henein]] | [[./icons/emacs/emacs-curvy/emacs-curvy.icns]] | [[https://darrinhenein.com/2021/Emacs-Icon][→ Link]] |
