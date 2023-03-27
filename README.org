@@ -47,6 +47,8 @@ Feel free to make pull requests to add your images! Just keep in mind...
 | [[https://github.com/hugonobrega][hugonobrega]]     | [[./splashes/doom/doom-emacs-slant-out-bw.png]]    |        |
 | [[https://github.com/ocodo][ocodo]]           | [[./splashes/doom/doom-creamsody.png]]             |        |
 | [[https://github.com/ocodo][ocodo]]           | [[./splashes/doom/doom-vapourwave.png]]            |        |
+| [[https://github.com/typoman][typoman]]         | [[./icons/emacs/doom-ascii-art.png]]             |        |
+
 
 *** emacs
 | Author           | Image                               | URL    |
