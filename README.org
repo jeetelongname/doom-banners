@@ -24,7 +24,7 @@ Feel free to make pull requests to add your images! Just keep in mind...
   for you to resize the image.
   If you have image magic installed this command will resize the image to 400x400:
  #+begin_src shell
- convert INPUT.png -resize 400 -quality 75 OUTPUT.pn g
+ convert INPUT.png -resize 400 -quality 75 OUTPUT.png
  #+end_src 
 
 * Credits
